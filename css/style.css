@@ -1,0 +1,173 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+#header{
+	height: 115px;
+}
+#header img{
+	float: left;
+
+}
+#header a{
+	text-decoration: none;
+	color: #333;
+}
+#header h1{    
+	text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 33px;
+    padding-top: 8px;
+}
+#header ul{
+	padding-top: 11px;
+    margin-top: 20px;
+}
+#header ul li{}
+#header ul li a{
+	color: #777777;
+	text-transform: uppercase;
+}
+.logo{
+	margin-top: 36px;
+}
+ul li{
+	list-style: none;
+}
+#row1{
+	background: #fff url(../images/treehouse-home.jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    position: relative;
+    z-index: -10;
+}
+.overlay{
+	position: absolute;
+	background-color: rgba(0,0,0,0.7);
+	height: 100%;
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	z-index: -5;
+}
+.wrapper{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%,54%);
+}
+.wrapper h1{
+	    color: #fff;
+    font-weight: 600;
+    width: 500px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.wrapper p{
+	color: #fff; 
+	padding: 3px 0 56px 0;
+}
+.wrapper a{
+	color: #fff;
+    background: #7CC576;
+    padding: 15px 28px;
+    border-radius: 30px;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+#service{}
+#service .heading{
+	text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+#service .heading h1{
+	text-transform: uppercase;
+    font-weight: 900;
+}
+#service .heading p{}
+#service {}
+#service h4{
+	text-transform: uppercase;
+    font-weight: 900;
+    margin-top: 38px;
+}
+#service p{
+	margin-bottom: 100px;
+}
+#service img{}
+.wrapper-service{
+	text-align: center;
+
+}
+.wrapper-row3{}
+#row3{
+	background: #fff url(../images/row4.jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    position: relative;
+    z-index: -10;
+}
+#row3 .overlay{
+	position: absolute;
+	background-color: rgba(0,0,0,0.7);
+	height: 100%;
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -5;
+}
+.side{}
+#row3 img{}
+#row3 .wrapper{}
+#row3 .wrapper h1{}
+#row3 .wrapper p{}
+#row3 .wrapper ul{}
+#row3 .wrapper ul li{}
+#row3 .wrapper ul li img{}
+#row3 .content{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-130%,21%);
+    width: 553px;
+}
+#row3 .back{}
+.wrapper-row3{
+	color: #fff;
+	
+}
+.wrapper-row3 h1{
+	font-weight: 900;
+    text-transform: uppercase;
+}
+.wrapper-row3 p{
+	font-family: 'Roboto Slab', serif;
+}
+.wrapper-row3 span{
+	color: seagreen;
+}
+.wrapper-row3 ul{
+	font-family: 'Roboto Slab', serif;
+	margin-bottom: 55px;
+    margin-top: 36px;
+}
+.wrapper-row3 ul li{}
+.wrapper-row3 ul li img{}
+.wrapper-row3 a{
+	color: #fff;
+    background: #7CC576;
+    padding: 15px 28px;
+    border-radius: 30px;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+
+#row4{}
+#row5{}
+#row6{}
+#row7{}
+#row8{}
+#top-footer{}
+#footer{}
